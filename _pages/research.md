@@ -23,16 +23,18 @@ My current research is focused on the application of machine learning and comput
 **Datasets**:
  - [Fish-Vista](https://huggingface.co/datasets/imageomics/fish-vista)
  - [KABR](https://huggingface.co/datasets/imageomics/KABR)
-[Bucket-o-Bugs](https://github.com/Digital-Naturalism-Laboratories/bucket-o-bugs): Project from [BeetlePalooza](https://github.com/Imageomics/BeetlePalooza-2024/wiki), now incorporated into [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/).
+
+[**Bucket-o-Bugs**](https://github.com/Digital-Naturalism-Laboratories/bucket-o-bugs): Project from [BeetlePalooza](https://github.com/Imageomics/BeetlePalooza-2024/wiki), now incorporated into [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/).
 
 **Data Visualization**:
  - [Andromeda](https://huggingface.co/spaces/imageomics/Andromeda)
  - [Dashboards](https://huggingface.co/collections/imageomics/dashboards-664dfea41b242206a6747c21)
-[pybioclip](https://github.com/Imageomics/pybioclip)
+
+[**pybioclip**](https://github.com/Imageomics/pybioclip)
 
 **Mathematics**:
  - Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902))
- - [_Lattice Points Close to the Heisenberg Spheres_ with Prof. K. Taylor](https://doi.org/10.1007/s44007-022-00040-z)
+ - [_Lattice Points Close to the Heisenberg Spheres_](https://doi.org/10.1007/s44007-022-00040-z) with Prof. K. Taylor
 
 **Quantum Computing**:
  - Asymmetric Cloning to Eavesdrop on BB84 Protocol: [QuForce Innovation Fellows Project](https://github.com/egrace479/QuForceBB84Proj), [Paper](https://arxiv.org/abs/2409.16284) & [Paper Code](https://github.com/egrace479/asymmetric-cloning-BB84)
