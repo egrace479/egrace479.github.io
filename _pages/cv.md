@@ -76,8 +76,8 @@ Recent Research and Performance Awards
 
 * __Awards & Honors__
 
-	* Nominated by OSU for the 2024 Council of Graduate Schools (CGS)/ProQuest Distinguished Dissertation Award in Mathematics, Physical Sciences and Engineering (Summer 2024\)  
-  	* SIAM-NSF Early Career Travel Award (July 2024\)
+	* Nominated by OSU for the 2024 Council of Graduate Schools (CGS)/ProQuest Distinguished Dissertation Award in Mathematics, Physical Sciences and Engineering (Summer 2024)  
+  	* SIAM-NSF Early Career Travel Award (July 2024)
 	* Graduate Associate Performance Award (2021)
 	* Rhodus Graduate Fellowship (Autumn 2018 and 2019)
 
