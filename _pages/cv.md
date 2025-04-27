@@ -69,17 +69,16 @@ Selected Projects (pre-2023)
 
 Recent Research and Performance Awards									 
 =====
-* __Papers and Projects__
-	* Best Student Paper Award for BioCLIP at IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
-	* 1st Place: QuForce Demo Day (2022)
-	* Top Project: Erdős Institute Fall Boot Camp (2021)
+***Papers and Projects***
+ - Best Student Paper Award for BioCLIP at IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
+ - 1st Place: QuForce Demo Day (2022)
+ - Top Project: Erdős Institute Fall Boot Camp (2021)
 
-* __Awards & Honors__
-
-	* Nominated by OSU for the 2024 Council of Graduate Schools (CGS)/ProQuest Distinguished Dissertation Award in Mathematics, Physical Sciences and Engineering (Summer 2024)  
-  	* SIAM-NSF Early Career Travel Award (July 2024)
-	* Graduate Associate Performance Award (2021)
-	* Rhodus Graduate Fellowship (Autumn 2018 and 2019)
+***Awards & Honors***
+ - Nominated by OSU for the 2024 Council of Graduate Schools (CGS)/ProQuest Distinguished Dissertation Award in Mathematics, Physical Sciences and Engineering (Summer 2024)
+ - SIAM-NSF Early Career Travel Award (July 2024)
+ - Graduate Associate Performance Award (2021)
+ - Rhodus Graduate Fellowship (Autumn 2018 and 2019)
 
 
 Selected Publications
