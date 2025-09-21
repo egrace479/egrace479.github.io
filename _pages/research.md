@@ -8,12 +8,12 @@ My current research is focused on the application of machine learning and comput
 ## Highlighted Projects
 
 **Harnessing the Data Revolution (HDR) Institutes Joint Science-based ML Challenge**, _Imageomics Challenge Lead_
- - [Scientific Modeling out of distribution (Scientific-Mood) ML Challenge](https://www.nsfhdr.org/mlchallenge-y2)----Coming soon!
+ - [Scientific Modeling out of distribution (Scientific-Mood) ML Challenge](https://www.nsfhdr.org/mlchallenge-y2)----Running through January 2026. Join the challenge now!
  - [Anomaly Detection in Scientific Domains](https://www.nsfhdr.org/mlchallenge)
 
 [**Imageomics Guide for FAIR and Reproducible Collaborative Science**](https://imageomics.github.io/Imageomics-guide/), _Project Lead_
 
-[**BioCLIP**](https://imageomics.github.io/bioclip/), _Data Lead_
+[**BioCLIP**](https://imageomics.github.io/bioclip/) and [**BioCLIP 2**](https://imageomics.github.io/bioclip-2/), _Data Lead_
 
 **FAIR Data Access and Validation**:
  - [cautious-robot](https://github.com/Imageomics/cautious-robot), _Project Lead_
@@ -45,7 +45,7 @@ My current research is focused on the application of machine learning and comput
 
 ## Mathematics
 
-During my graduate studies, I worked with my advisor, Professor Krystal Taylor, to answer questions at the intersection of harmonic analysis, number theory, and geometric measure theory. Our primary project was counting lattice points on surfaces (with and without vanishing curvature) utilizing techniques in harmonic analysis.
+During my graduate studies, I worked with my advisor, [Professor Krystal Taylor](https://u.osu.edu/taylor.2952/), to answer questions at the intersection of harmonic analysis, number theory, and geometric measure theory. Our primary project was counting lattice points on surfaces (with and without vanishing curvature) utilizing techniques in harmonic analysis.
 
 Our paper, _Lattice Points Close to the Heisenberg Spheres_, was published in [La Matematica](https://doi.org/10.1007/s44007-022-00040-z) in March 2023, and can also be found on [arXiv](https://doi.org/10.48550/arXiv.2205.02163). My dissertation, Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature, is available on [OhioLink](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902) and ProQuest.
 
