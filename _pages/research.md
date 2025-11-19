@@ -11,7 +11,8 @@ My current research is focused on the application of machine learning and comput
  - [Scientific Modeling out of distribution (Scientific-Mood) ML Challenge](https://www.nsfhdr.org/mlchallenge-y2)----Running through January 2026. Join the challenge now!
  - [Anomaly Detection in Scientific Domains](https://www.nsfhdr.org/mlchallenge)
 
-[**Imageomics Guide for FAIR and Reproducible Collaborative Science**](https://imageomics.github.io/Imageomics-guide/), _Project Lead_
+[**Collaborative Distributed Science Guide**](https://github.com/Imageomics/Collaborative-distributed-science-guide), _Project Lead_
+ - Template Guide for FAIR and Reproducible research, with a focus on interdisciplinary groups. Based on, and now contributing to our [**Imageomics Guide for FAIR and Reproducible Collaborative Science**](https://imageomics.github.io/Imageomics-guide/).
 
 [**BioCLIP**](https://imageomics.github.io/bioclip/) and [**BioCLIP 2**](https://imageomics.github.io/bioclip-2/), _Data Lead_
 
@@ -22,15 +23,16 @@ My current research is focused on the application of machine learning and comput
 
 **Datasets**:
  - [Fish-Vista](https://huggingface.co/datasets/imageomics/fish-vista)
- - [KABR](https://huggingface.co/datasets/imageomics/KABR)
-
-[**Bucket-o-Bugs**](https://github.com/Digital-Naturalism-Laboratories/bucket-o-bugs): Project from [BeetlePalooza](https://github.com/Imageomics/BeetlePalooza-2024/wiki), now incorporated into [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/).
+ - [KABR mini scenes](https://huggingface.co/datasets/imageomics/KABR), [all KABR](https://imageomics.github.io/KABR/)
 
 **Data Visualization**:
  - [Andromeda](https://huggingface.co/spaces/imageomics/Andromeda)
  - [Dashboards](https://huggingface.co/collections/imageomics/dashboards-664dfea41b242206a6747c21)
 
-[**pybioclip**](https://github.com/Imageomics/pybioclip)
+**Other Cool Projects:**
+- [**Bucket-o-Bugs**](https://github.com/Digital-Naturalism-Laboratories/bucket-o-bugs): Project from [BeetlePalooza](https://github.com/Imageomics/BeetlePalooza-2024/wiki), now incorporated into [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/).
+- [**pybioclip**](https://github.com/Imageomics/pybioclip)
+- [Imageomics Catalog](https://github.com/Imageomics/catalog): Fun experiment using Gemini to initialize a catalog website for Imageomics' digital products, now supervising further development.
 
 **Mathematics**:
  - Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902))
@@ -56,4 +58,4 @@ I have recently started reading more on lattice-based cryptography as a post-qua
 
 My last quantum research project was studying the practical effect of the circuit design on the implementation of asymmetric phase-covariant cloning applied to the BB84 Protocol for quantum key distribution. This was an extension of my [QuForce Innovation Fellows project](https://github.com/egrace479/QuForceBB84Proj) (working with [Brian Pigott](https://pigottb.github.io/) and [Hardik Routray](https://www.linkedin.com/in/hardikroutray/)) to determine the theoretical optimal strategy for asymmetric cloning on a quantum channel (minimizing disturbance while maximizing information gain). The experimental aspect of our research was performed on IonQ’s 11-qubit quantum computer (utilizing the Qiskit SDK) and on IBM's publicly available quantum computers.
 
-I presented on our work at the 2023 APS March Meeting. Our results have been submitted for review and are available on [arXiv](https://arxiv.org/abs/2409.16284); the associated code is [on GitHub](https://github.com/egrace479/asymmetric-cloning-BB84). 
+I presented on our work at the 2023 APS March Meeting. Our results have been published in the International Journal of Quantum Information ([Eavesdropping on the BB84 protocol using phase-covariant cloning: Experimental results](https://doi.org/10.1142/S0219749925500285)) and are also available on [arXiv](https://arxiv.org/abs/2409.16284); the associated code is [on GitHub](https://github.com/egrace479/asymmetric-cloning-BB84). 
